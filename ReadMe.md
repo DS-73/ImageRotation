@@ -20,6 +20,7 @@ Software & technologies:
 	
 ## Function
 Functions details -
+
 	 1.	Main()
 		- Take name of image as input call the loadImagefunction
 	
